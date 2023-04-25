@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="wh1_xsolla_api_key" version_id="1000071" version_string="1.0.0"><![CDATA[Api key]]></phrase>
+  <phrase title="wh1_xsolla_merchant_id" version_id="1000071" version_string="1.0.0"><![CDATA[Merchant Id]]></phrase>
+  <phrase title="wh1_xsolla_project_id" version_id="1000071" version_string="1.0.0"><![CDATA[Project Id]]></phrase>
+  <phrase title="wh1_xsolla_secret_key" version_id="1000071" version_string="1.0.0"><![CDATA[Secret key]]></phrase>
+  <phrase title="wh1_xsolla_you_must_provide_all_data" version_id="1000071" version_string="1.0.0"><![CDATA[You must provide all data!]]></phrase>
+</phrases>

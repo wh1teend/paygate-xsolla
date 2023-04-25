@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<templates>
+  <template type="admin" title="payment_profile_wh1Xsolla" version_id="1000071" version_string="1.0.0"><![CDATA[<xf:textboxrow name="options[merchant_id]" value="{$profile.options.merchant_id}"
+			   label="{{ phrase('wh1_xsolla_merchant_id') }}"
+			   hint="{{ phrase('required') }}">
+</xf:textboxrow>
+
+<xf:textboxrow name="options[api_key]" value="{$profile.options.api_key}"
+			   label="{{ phrase('wh1_xsolla_api_key') }}"
+			   hint="{{ phrase('required') }}">
+</xf:textboxrow>
+
+<xf:textboxrow name="options[project_id]" value="{$profile.options.project_id}" 
+			   label="{{ phrase('wh1_xsolla_project_id') }}"
+			   hint="{{ phrase('required') }}">
+</xf:textboxrow>
+
+<xf:textboxrow name="options[secret_key]" value="{$profile.options.secret_key}"
+			   label="{{ phrase('wh1_xsolla_secret_key') }}"
+			   hint="{{ phrase('required') }}">
+</xf:textboxrow>]]></template>
+</templates>

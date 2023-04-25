@@ -1,0 +1,5 @@
+{
+    "require": {
+        "xsolla/xsolla-sdk-php": "^4.1"
+    }
+}

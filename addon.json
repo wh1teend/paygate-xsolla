@@ -1,0 +1,24 @@
+{
+    "legacy_addon_id": "",
+    "title": "[WH1] Paygate: Xsolla",
+    "description": "Xsolla Payment Profile for XenForo.",
+    "version_id": 1000070,
+    "version_string": "1.0.0",
+    "dev": "wh1teend",
+    "dev_url": "https://t.me/wh1teend",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": {
+        "php": [
+            "7.4",
+            "PHP 7.4+"
+        ],
+        "XF": [
+            2010270,
+            "XenForo 2.1.2+"
+        ]
+    },
+    "icon": "icon.png",
+    "composer_autoload": "vendor/composer"
+}

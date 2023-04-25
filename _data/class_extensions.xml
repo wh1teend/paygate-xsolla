@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class_extensions>
+  <extension from_class="XF\Pub\Controller\Purchase" to_class="WH1\PaygateXsolla\XF\Pub\Controller\Purchase" execute_order="20" active="1"/>
+</class_extensions>
